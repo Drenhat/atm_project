@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# ATM machine
 
 ## Description
 > This is an ATM project. This small program let you deposit of withdraw money. But be careful, you can only withdraw money if you have enough funds on your bank account.
