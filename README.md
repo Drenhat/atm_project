@@ -1,7 +1,8 @@
 # ATM machine
 
 ## Description
-> This is an ATM project. This small program let you deposit of withdraw money. But be careful, you can only withdraw money if you have enough funds on your bank account.
+> This is an ATM project. This small program let you deposit of withdraw money. But be careful, you can only withdraw money if you have enough funds on your bank account. 
+> It is an upgrade from an homework with MIT xpro. The main difference with the vanilla version is that the user can't withdraw more money than he has on his bank account. I also deeply modified the CSS file using React Bootstrap.
 
 ## Installation
 > You Should download the different files and keep them in their respective folders. Then, run the html file within your browser.
